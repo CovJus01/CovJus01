@@ -4,13 +4,11 @@
 
 #### About me 👨‍💻
 
-Hi, my name is Justin and I've been fiddling around with programming for most of my life!
+- 3rd year student in Computer and Electrical Engineering at McMaster University
 
-I am Currently Working a coop in Ontario Ministry of Government and Consumer Services
+- I am currently Working a coop for Ontario Ministry of Government and Consumer Services
 
-###### Education 📝
-
-I am currently attending McMaster University for Computer and Electrical Engineering.
+- I'm trying to learn web development and make some cool websites!
 
 ---
 
