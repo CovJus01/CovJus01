@@ -1,6 +1,6 @@
 ## Hey, Thanks for stopping by! 👋
 
----
+## <img alt="Javascript" width="35px" src="./Panoramic.jpg" />
 
 #### About me 👨‍💻
 
