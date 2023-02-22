@@ -6,8 +6,6 @@
 
 - 3rd year student in Computer and Electrical Engineering at McMaster University
 
-- I am currently Working a coop for Ontario Ministry of Government and Consumer Services
-
 - I'm trying to learn web development and make some cool websites!
 
 ---
@@ -30,7 +28,6 @@
 
 - 🎸I enjoy playing Guitar
 - 🏐I like playing sports
-- <img alt="Argentina Flag" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/81/flag-for-argentina_1f1e6-1f1f7.png" />Fluent in Spanish
 
 ---
 
