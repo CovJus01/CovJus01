@@ -20,14 +20,6 @@
 
 #### Current Pursuits 🚩
 
-###### Projects:
-
-- Wordle Clone
-- Chess Website
-- Progress Tracker
-
-###### Learning:
-
 - Full Stack Web Development
 - Low Code Development Tools
 - Machine Learning
