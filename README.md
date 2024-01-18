@@ -6,7 +6,9 @@
 
 - 3rd year student in Computer and Electrical Engineering at McMaster University
 
-- I'm trying to learn web development and make some cool websites!
+- Currently growing and learning web development
+
+- Interesting in learning and growing more in AI and Embedded systems development
 
 ---
 
