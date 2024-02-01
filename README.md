@@ -4,7 +4,7 @@
 
 #### About me 👨‍💻
 
-- 4rd year student in Computer and Electrical Engineering at McMaster University
+- 4th year student in Computer and Electrical Engineering at McMaster University
 
 - Currently working in web development
 
