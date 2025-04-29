@@ -4,19 +4,19 @@
 
 #### About me 👨‍💻
 
-- 4th year student in Computer and Electrical Engineering at McMaster University
+- BE In Computer and Electrical Engineering from McMaster University
 
-- Currently working in web development
+- Currently looking for work in Embedded Systems, Computer Networking, Machine Learning & Other related fields
 
-- Currently learning machine learning concepts and models
+- Currently building expertise in Deep Networks & Reinforcement learning
 
 ---
 
 #### Current Pursuits 🚩
 
-- Full Stack Web Development
-- Machine Learning
-- Embedded Systems
+- Convolutional and Sequence Models
+- Building and Embedded Jeopardy game
+- E-ink mobile phone
 
 ---
 
