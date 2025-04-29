@@ -15,7 +15,7 @@
 #### Current Pursuits 🚩
 
 - Convolutional and Sequence Models
-- Building and Embedded Jeopardy game
+- Building an Embedded Jeopardy game
 - E-ink mobile phone
 
 ---
